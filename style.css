@@ -38,7 +38,7 @@ header {
     padding: 0% 20%; 
 }
 #spotlight h1 {
-    font-size: 7vw;
+    font-size: 3vw;
 }
 
 #spotlight p {
@@ -68,15 +68,12 @@ header {
     justify-content: center;
 }
 
-
 @media only screen and (max-width: 636px){
 
     #spotlight h1 {
         padding-top: 25vw;
     }
 }
-
-
 
 @media only screen and (max-width: 430px){
 
